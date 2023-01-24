@@ -2,7 +2,7 @@ import './App.css';
 import Root from './Root';
 import { getToken } from './Utils/LoginUtils'
 import ErrorPage from "./error-page";
-import Dashboard from './routes/dashboard';
+
 import Login from './routes/Login/Login';
 import Home from './routes/home/Home';
 import { RegisteredVendor } from './routes/Register/RegiseterVendor';
